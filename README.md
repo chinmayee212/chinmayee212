@@ -1,5 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+### 🌱 I’m currently learning JavaScript Frameworks.
+I am Enginner by profession
 
+- 📫 How to reach me: cvwaingankar@gmail.com
 <!--
 **chinmayee212/chinmayee212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
