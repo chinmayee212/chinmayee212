@@ -1,6 +1,7 @@
 
 <h1><p align="center">Hello, I'm Chinmayee W ! </h1></p>
-<p align ="left"><img src="https://media.giphy.com/media/z24q9PQNlw19u/giphy.gif"> <p>
+<img src="https://media.giphy.com/media/z24q9PQNlw19u/giphy.gif" align="right"> 
+<img src="https://media.giphy.com/media/z24q9PQNlw19u/giphy.gif" align="right"> 
 <p align="center">I'm a student developer.<br/>I specialize in Web-Development.<br> I also love painting and travel.<br></p>
 
 
