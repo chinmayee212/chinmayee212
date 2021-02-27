@@ -1,6 +1,6 @@
 
-<h1><p align="center">Hello, I'm Chinmayee W! <img src="https://media.giphy.com/media/3oGRFh9szq10x1HAys/giphy.gif" width="35px"></h1></p>
-
+<h1><p align="center">Hello, I'm Chinmayee W ! </h1></p>
+<p align ="left"><img src="https://media.giphy.com/media/z24q9PQNlw19u/giphy.gif"> <p>
 <p align="center">I'm a student developer.<br/>I specialize in Web-Development.<br> I also love painting and travel.<br></p>
 
 
