@@ -1,12 +1,12 @@
 
 <h1><p align="center">Hello, I'm Chinmayee W ! </h1></p>
-<img src="https://media.giphy.com/media/z24q9PQNlw19u/giphy.gif" align="left"> 
-<img src="https://media.giphy.com/media/z24q9PQNlw19u/giphy.gif" align="right"> 
-<p align="center">I'm a student developer.<br/>I specialize in Web-Development.<br> I also love painting and travel.<br></p>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" align="left"> 
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" align="right"> 
+<!-- <p align="center">I'm a student developer.<br/>I specialize in Web-Development.<br> I also love painting and travel.<br></p> -->
 
 
 <br/>
-<div align = "center">
+<!-- <div align = "center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
@@ -31,7 +31,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
+</div> -->
 
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
