@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi there 👋, I'm <a href="https://chinmayee212.github.io/portfolio" target="_blank">Chinmayee V. Waingankar</a>!</h1>  
-<h3 align="center">🚀 Passionate Frontend Developer | Next.js Enthusiast | Problem Solver 🚀</h3>
+<h1 align="center">Hi there 👋, I'm <a href="https://chinmayee212.github.io/portfolio" target="_blank">Chinmayee Nerurkar</a>!</h1>  
+<h3 align="center">🚀 Passionate  Developer | Next.js-Node.js Enthusiast | Problem Solver 🚀</h3>
 
 <img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 ### 💡 **About Me**  
-- 🔭 **Currently working at:** Vernost  
-- 🌱 **Exploring:** Next.js, React Query, Performance Optimization  
+- 🔭 **Currently working at:** Still Searching best place....  
+- 🌱 **Exploring:** Next.js, React Query, Performance Optimization,Nodejs,Testing Frameworks  
 - 💬 **Ask me about:** Web Development, Interview Prep, Self-Growth  
 - 🎯 **Career Goals:** Cracking tech interviews, Building impactful applications  
 - 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/chinmayee-waingankar) | [Portfolio](https://chinmayee212.github.io/portfolio)  
